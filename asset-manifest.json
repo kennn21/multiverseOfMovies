@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MultiverseOfMovies/static/css/main.3d3c9cd5.css",
+    "main.js": "/MultiverseOfMovies/static/js/main.bdc58c83.js",
+    "index.html": "/MultiverseOfMovies/index.html",
+    "main.3d3c9cd5.css.map": "/MultiverseOfMovies/static/css/main.3d3c9cd5.css.map",
+    "main.bdc58c83.js.map": "/MultiverseOfMovies/static/js/main.bdc58c83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3c9cd5.css",
+    "static/js/main.bdc58c83.js"
+  ]
+}
